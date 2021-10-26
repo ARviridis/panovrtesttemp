@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" start="node1" apprev="18043">
+  <panorama hideabout="1" id="node1">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" height="450" levelbias="0.400" width="450" leveltilesize="510" overlap="1">
+      <level height="450" width="450" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="69">
+      <start fov="116.51" pan="-16.58" tilt="-21.2129" projection="4"/>
+      <flyin fov="249.6" pan="0" tilt="-90" projection="9"/>
+      <min fov="116.51" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="116.51" pan="360" fovstereographic="270" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata title="Pano_test" nodeid="node1" author="D_O" longitude="30.31550377" customnodeid="" description="test" tags="cub" copyright="" latitude="59.94984630" info="" comment="" datetime="" source="" heading="69">
+      <mapcoords x_floorplan_percent="inf" y_floorplan_percent="inf" mapid="FloorPlan01" x="nan" y="nan"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" background="1" border="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" enabled="1" borderalpha="1" textcolor="0x000000" borderradius="1" height="20" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="1"/>
+      <hotspot title="Pano_test" distance3D="3544.54" description="" fov="9.258240000000001" url="{node4}" customimagewidth="574" target="$fwd" pan="242.13" id="Point01" use3D="1" customimageheight="358" tilt="0" skinid="ht_node" distance="1197.76" customimage="media/213.JPG"/>
+      <hotspot title="Pano_test" distance3D="4920.64" description="" fov="10" url="{node8}" customimagewidth="861" target="$fwd" pan="223.937" id="Point05" use3D="1" customimageheight="377" tilt="0" skinid="ht_node" distance="1586.82" customimage="media/44к.JPG"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" level="0.300" pan="-1.000" id="_background" field="90.000" mode="0" tiltsize="10.000" tilt="-1.000" nodechangekeep="0" ambientlevel="0.000" loop="1">
+        <source url="media/1.mp3"/>
+      </sound>
+      <lensflare alpha="80.000" blinding="48.000" pan="2.970" id="Lensflare03" color="0xffffff" type="3" tilt="66.250"/>
+    </media>
+    <transition zoomout="0" enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" zoomafterinfov="90" blendcolor="0x000000" type="diptocolor" zoomspeed="2" zoomafteroutfov="20" softedge="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="1" useinautorotation="1"/>
+    <control speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" contextprojections="1" invertcontrol="1" hideabout="1" sensitivity="8" lockedkeyboard="0" rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" dblclickfullscreen="0">
+      <menulink url="" text="Панорамки"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" height="450" levelbias="0.400" width="450" leveltilesize="510" overlap="1">
+      <level height="450" width="450" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-105">
+      <start fov="116.51" pan="0" tilt="0" projection="4"/>
+      <flyin fov="249.6" pan="0" tilt="-90" projection="9"/>
+      <min fov="116.51" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="116.51" pan="360" fovstereographic="270" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata title="Pano_test" nodeid="node2" author="D_O" longitude="30.32043636" customnodeid="" description="test" tags="cub" copyright="" latitude="59.95079857" info="" comment="" datetime="" source="" heading="-105">
+      <mapcoords x_floorplan_percent="inf" y_floorplan_percent="inf" mapid="FloorPlan01" x="nan" y="nan"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" background="1" border="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" enabled="1" borderalpha="1" textcolor="0x000000" borderradius="1" height="20" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="1"/>
+      <hotspot title="Pano_test" distance3D="3154.69" description="" fov="10" url="{node4}" customimagewidth="552" target="-115.343/0/70" pan="57.1107" id="Point02" use3D="1" customimageheight="344" tilt="0" skinid="ht_node" distance="1360.82" customimage="media/213.JPG"/>
+      <hotspot title="Pano_test" distance3D="3377.58" description="" fov="10" url="{node7}" customimagewidth="591" target="$fwd" pan="47.0637" id="Point03" use3D="1" customimageheight="273" tilt="0" skinid="ht_node" distance="1389.71" customimage="media/Снимок22.JPG"/>
+      <hotspot title="Pano_test" distance3D="1468.76" description="" fov="10" url="{node5}" customimagewidth="257" target="$fwd" pan="60.6875" id="Point05" use3D="1" customimageheight="167" tilt="0" skinid="ht_node" distance="1396.04" customimage="media/5.JPG"/>
+      <hotspot title="Pano_test" distance3D="4920.64" description="" fov="10" url="{node8}" customimagewidth="861" target="$fwd" pan="43.4663" id="Point06" use3D="1" customimageheight="377" tilt="0" skinid="ht_node" distance="1810.61" customimage="media/44к.JPG"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" level="0.300" pan="-1.000" id="_background" field="90.000" mode="0" tiltsize="10.000" tilt="-1.000" nodechangekeep="0" ambientlevel="0.000" loop="1">
+        <source url="media/1.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" zoomafterinfov="90" blendcolor="0x000000" type="diptocolor" zoomspeed="2" zoomafteroutfov="20" softedge="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="1" useinautorotation="1"/>
+    <control speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" contextprojections="1" invertcontrol="1" hideabout="1" sensitivity="8" lockedkeyboard="0" rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" dblclickfullscreen="0">
+      <menulink url="" text="Панорамки"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" height="960" levelbias="0.400" width="960" leveltilesize="510" overlap="1">
+      <level height="960" width="960" predecode="0" preload="0"/>
+      <level height="480" width="480" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="181">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="270" pan="0" tilt="-90" projection="9"/>
+      <min fov="116.51" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="116.51" pan="360" fovstereographic="270" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata title="Pano_test" nodeid="node4" author="D_O" longitude="30.31293154" customnodeid="" description="test" tags="cub" copyright="" latitude="59.93915186" info="" comment="" datetime="" source="" heading="181">
+      <mapcoords x_floorplan_percent="inf" y_floorplan_percent="inf" mapid="FloorPlan01" x="nan" y="nan"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" background="1" border="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" enabled="1" borderalpha="1" textcolor="0x000000" borderradius="1" height="20" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="1"/>
+      <hotspot title="Pano_test" distance3D="1977.4" description="Там красиво." fov="10" url="{node2}" customimagewidth="346" target="6.08125/0/70" pan="163.117" id="Point01" use3D="1" customimageheight="304" tilt="0" skinid="ht_node" distance="1360.82" customimage="media/asd.JPG"/>
+      <hotspot title="Pano_test" distance3D="1468.76" description="" fov="10" url="{node5}" customimagewidth="257" target="44.7923/0/70" pan="52.6573" id="Point02" use3D="1" customimageheight="167" tilt="0" skinid="ht_node" distance="92.9571" customimage="media/5.JPG"/>
+      <hotspot title="Pano_test" distance3D="1617.35" description="" fov="10" url="{node1}" customimagewidth="283" target="$fwd" pan="174.132" id="Point03" use3D="1" customimageheight="417" tilt="0" skinid="ht_node" distance="1197.76" customimage="media/sad.JPG"/>
+      <hotspot title="Pano_test" distance3D="3314.72" description="" fov="10" url="{node9}" customimagewidth="580" target="$fwd" pan="211.753" id="Point06" use3D="1" customimageheight="388" tilt="0" skinid="ht_node" distance="1.96637e+06" customimage="media/3.JPG"/>
+      <hotspot title="Pano_test" description="" url="{node8}" target="$fwd" pan="296.146" id="Point04" tilt="0" skinid="ht_node" distance="584.277"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" level="0.300" pan="-1.000" id="_background" field="90.000" mode="0" tiltsize="10.000" tilt="-1.000" nodechangekeep="0" ambientlevel="0.000" loop="1">
+        <source url="media/1.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" zoomafterinfov="90" blendcolor="0x000000" type="diptocolor" zoomspeed="2" zoomafteroutfov="20" softedge="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="1" useinautorotation="1"/>
+    <control speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" contextprojections="1" invertcontrol="1" hideabout="1" sensitivity="8" lockedkeyboard="0" rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" dblclickfullscreen="0">
+      <menulink url="" text="Панорамки"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" height="960" levelbias="0.400" width="960" leveltilesize="510" overlap="1">
+      <level height="960" width="960" predecode="0" preload="0"/>
+      <level height="480" width="480" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-23">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="270" pan="0" tilt="-90" projection="9"/>
+      <min fov="116.51" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="116.51" pan="360" fovstereographic="270" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata title="Pano_test" nodeid="node5" author="D_O" longitude="30.31424046" customnodeid="" description="test" tags="cub" copyright="" latitude="59.93863324" info="" comment="" datetime="" source="" heading="-23">
+      <mapcoords x_floorplan_percent="inf" y_floorplan_percent="inf" mapid="FloorPlan01" x="nan" y="nan"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" background="1" border="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" enabled="1" borderalpha="1" textcolor="0x000000" borderradius="1" height="20" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="1"/>
+      <hotspot title="Pano_test" distance3D="3154.69" description="" fov="10" url="{node4}" customimagewidth="552" target="-4.88279/0/70" pan="28.6562" id="Point01" use3D="1" customimageheight="344" tilt="0" skinid="ht_node" distance="92.9571" customimage="media/213.JPG"/>
+      <hotspot title="Pano_test" distance3D="3377.58" description="" fov="10" url="{node7}" customimagewidth="591" target="-16.1547/0/70" pan="44.7923" id="Point02" use3D="1" customimageheight="273" tilt="0" skinid="ht_node" distance="330.477" customimage="media/Снимок22.JPG"/>
+      <hotspot title="Pano_test" distance3D="1617.35" description="" fov="10" url="{node1}" customimagewidth="283" target="$fwd" pan="-26.2291" id="Point03" use3D="1" customimageheight="417" tilt="0" skinid="ht_node" distance="1248.82" customimage="media/sad.JPG"/>
+      <hotspot title="Pano_test" distance3D="1977.4" description="" fov="10" url="{node2}" customimagewidth="346" target="$fwd" pan="-37.3071" id="Point04" use3D="1" customimageheight="304" tilt="0" skinid="ht_node" distance="1396.04" customimage="media/asd.JPG"/>
+      <hotspot title="Pano_test" distance3D="4920.64" description="" fov="10" url="{node8}" customimagewidth="861" target="$fwd" pan="84.5726" id="Point05" use3D="1" customimageheight="377" tilt="0" skinid="ht_node" distance="631.275" customimage="media/44к.JPG"/>
+      <hotspot title="Pano_test" distance3D="3314.72" description="" fov="10" url="{node9}" customimagewidth="580" target="$fwd" pan="7.75319" id="Point06" use3D="1" customimageheight="388" tilt="0" skinid="ht_node" distance="1.96646e+06" customimage="media/3.JPG"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" level="0.300" pan="-1.000" id="_background" field="90.000" mode="0" tiltsize="10.000" tilt="-1.000" nodechangekeep="0" ambientlevel="0.000" loop="1">
+        <source url="media/1.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" zoomafterinfov="90" blendcolor="0x000000" type="diptocolor" zoomspeed="2" zoomafteroutfov="20" softedge="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="1" useinautorotation="1"/>
+    <control speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" contextprojections="1" invertcontrol="1" hideabout="1" sensitivity="8" lockedkeyboard="0" rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" dblclickfullscreen="0">
+      <menulink url="" text="Панорамки"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" height="960" levelbias="0.400" width="960" leveltilesize="510" overlap="1">
+      <level height="960" width="960" predecode="0" preload="0"/>
+      <level height="480" width="480" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-153">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="270" pan="0" tilt="-90" projection="9"/>
+      <min fov="116.51" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="116.51" pan="360" fovstereographic="270" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata title="Pano_test" nodeid="node7" author="D_O" longitude="30.30874729" customnodeid="" description="test" tags="cub" copyright="" latitude="59.93975646" info="" comment="" datetime="" source="" heading="-153">
+      <mapcoords x_floorplan_percent="inf" y_floorplan_percent="inf" mapid="FloorPlan01" x="nan" y="nan"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" background="1" border="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" enabled="1" borderalpha="1" textcolor="0x000000" borderradius="1" height="20" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="1"/>
+      <hotspot title="Pano_test" distance3D="1468.76" description="" fov="10" url="{node5}" customimagewidth="257" target="28.6562/0/70" pan="-265.203" id="Point01" use3D="1" customimageheight="167" tilt="0" skinid="ht_node" distance="330.477" customimage="media/5.JPG"/>
+      <hotspot title="Pano_test" distance3D="1977.4" description="" fov="10" url="{node2}" customimagewidth="346" target="$fwd" pan="-180.926" id="Point04" use3D="1" customimageheight="304" tilt="0" skinid="ht_node" distance="1389.71" customimage="media/asd.JPG"/>
+      <hotspot title="Pano_test" description="" url="{node9}" target="$fwd" pan="-122.248" id="Point06" tilt="0" skinid="ht_node" distance="1.9662e+06"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" level="0.300" pan="-1.000" id="_background" field="90.000" mode="0" tiltsize="10.000" tilt="-1.000" nodechangekeep="0" ambientlevel="0.000" loop="1">
+        <source url="media/1.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" zoomafterinfov="90" blendcolor="0x000000" type="diptocolor" zoomspeed="2" zoomafteroutfov="20" softedge="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="1" useinautorotation="1"/>
+    <control speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" contextprojections="1" invertcontrol="1" hideabout="1" sensitivity="8" lockedkeyboard="0" rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" dblclickfullscreen="0">
+      <menulink url="" text="Панорамки"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" height="960" levelbias="0.400" width="960" leveltilesize="510" overlap="1">
+      <level height="960" width="960" predecode="0" preload="0"/>
+      <level height="480" width="480" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-30">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="270" pan="0" tilt="-90" projection="9"/>
+      <min fov="116.51" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="116.51" pan="360" fovstereographic="270" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata title="Pano_test" nodeid="node8" author="D_O" longitude="30.30343652" customnodeid="" description="test" tags="cub" copyright="" latitude="59.93691877" info="" comment="" datetime="" source="" heading="-30">
+      <mapcoords x_floorplan_percent="inf" y_floorplan_percent="inf" mapid="FloorPlan01" x="nan" y="nan"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" background="1" border="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" enabled="1" borderalpha="1" textcolor="0x000000" borderradius="1" height="20" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="1"/>
+      <hotspot title="Pano_test" distance3D="1617.35" description="" fov="10" url="{node1}" customimagewidth="283" target="$fwd" pan="-55.0521" id="Point03" use3D="1" customimageheight="417" tilt="0" skinid="ht_node" distance="1586.82" customimage="media/sad.JPG"/>
+      <hotspot title="Pano_test" distance3D="1977.4" description="" fov="10" url="{node2}" customimagewidth="346" target="$fwd" pan="-61.519" id="Point04" use3D="1" customimageheight="304" tilt="0" skinid="ht_node" distance="1810.61" customimage="media/asd.JPG"/>
+      <hotspot title="Pano_test" distance3D="1468.76" description="" fov="10" url="{node5}" customimagewidth="257" target="$fwd" pan="-102.418" id="Point06" use3D="1" customimageheight="167" tilt="0" skinid="ht_node" distance="631.275" customimage="media/5.JPG"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" level="0.300" pan="-1.000" id="_background" field="90.000" mode="0" tiltsize="10.000" tilt="-1.000" nodechangekeep="0" ambientlevel="0.000" loop="1">
+        <source url="media/1.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" zoomafterinfov="90" blendcolor="0x000000" type="diptocolor" zoomspeed="2" zoomafteroutfov="20" softedge="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="1" useinautorotation="1"/>
+    <control speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" contextprojections="1" invertcontrol="1" hideabout="1" sensitivity="8" lockedkeyboard="0" rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" dblclickfullscreen="0">
+      <menulink url="" text="Панорамки"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" height="480" levelbias="0.400" width="480" leveltilesize="510" overlap="1">
+      <level height="480" width="480" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-22">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="270" pan="0" tilt="-90" projection="9"/>
+      <min fov="116.51" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="116.51" pan="360" fovstereographic="270" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata title="Pano_test" nodeid="node9" author="D_O" longitude="-1.40625000" customnodeid="" description="test" tags="cub" copyright="" latitude="72.81607372" info="" comment="" datetime="" source="" heading="-22">
+      <mapcoords x_floorplan_percent="inf" y_floorplan_percent="inf" mapid="FloorPlan01" x="nan" y="nan"/>
+    </userdata>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" background="1" border="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" enabled="1" borderalpha="1" textcolor="0x000000" borderradius="1" height="20" backgroundalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="1"/>
+      <hotspot title="Pano_test" description="" url="{node4}" target="$fwd" pan="-141.89" id="Point04" tilt="0" skinid="ht_node" distance="1.96637e+06"/>
+      <hotspot title="Pano_test" description="" url="{node5}" target="$fwd" pan="-141.889" id="Point05" tilt="0" skinid="ht_node" distance="1.96646e+06"/>
+      <hotspot title="Pano_test" distance3D="3377.58" description="" fov="10" url="{node7}" customimagewidth="591" target="$fwd" pan="-141.895" id="Point06" use3D="1" customimageheight="273" tilt="0" skinid="ht_node" distance="1.9662e+06" customimage="media/Снимок22.JPG"/>
+    </hotspots>
+    <media>
+      <sound startmutedmobile="0" pansize="10.000" level="0.300" pan="-1.000" id="_background" field="90.000" mode="0" tiltsize="10.000" tilt="-1.000" nodechangekeep="0" ambientlevel="0.000" loop="1">
+        <source url="media/2.mp3"/>
+      </sound>
+    </media>
+    <transition zoomout="0" enabled="1" zoomin="0" zoomoutpause="1" blendtime="1" zoomfov="20" zoomafterinfov="90" blendcolor="0x000000" type="diptocolor" zoomspeed="2" zoomafteroutfov="20" softedge="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="1" useinautorotation="1"/>
+    <control speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" contextfullscreen="1" contextprojections="1" invertcontrol="1" hideabout="1" sensitivity="8" lockedkeyboard="0" rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" dblclickfullscreen="0">
+      <menulink url="" text="Панорамки"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata title="" nodeid="master" author="" longitude="" customnodeid="" description="" tags="" copyright="" latitude="" info="" comment="" datetime="" source="" heading="0"/>
+  </masternode>
+  <map title="" transparent="0" tileformat="jpg" floorplannorth="3" bgcolor="rgba(255, 255, 255, 1)" height="0" id="FloorPlan01" type="file" width="0" zoomlevels="1"/>
+</tour>
